@@ -1,3 +1,8 @@
+
+![WhatsApp Image 2026-01-06 at 23 04 38](https://github.com/user-attachments/assets/db97e57e-97c7-4a41-be2d-93af2b82709d)
+
+
+
 # Hi, I'm Sayujya Tiwari 👋
 
 🎓 College Student | 💻 Aspiring Software Development Engineer  
@@ -65,11 +70,10 @@
 
 ## 🤝 Connect With Me
 
-## 🤝 Contact Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayujya-tiwari-5a3793322/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/tiwari_sayujya)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/guardianslord783)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhtiwari19419@gmail.com)
 
 
 
