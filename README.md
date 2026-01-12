@@ -38,9 +38,6 @@
 🔹 **learning**  
 > A practice repository where I write code to improve my programming fundamentals.
 
-🔹 **c-kanan-s-class**  
-> C++ practice codes and problem-solving exercises.
-
 🔹 **pure-html-website**  
 > Basic HTML project to understand web structure and layout.
 
