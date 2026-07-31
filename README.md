@@ -1,113 +1,82 @@
-
 ![WhatsApp Image 2026-01-06 at 23 04 38](https://github.com/user-attachments/assets/db97e57e-97c7-4a41-be2d-93af2b82709d)
-
-
 
 # Hi, I'm Sayujya Tiwari 👋
 
-🎓 College Student | 💻 Aspiring Software Development Engineer  
-🌱 Learning by building, debugging, and improving every day  
+🎓 College Student | 💻 Aspiring Software Development Engineer
+🌱 Learning by building, debugging, and improving every day
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently focusing on **Data Structures & Algorithms**
-- 🧠 Strengthening **C++, Python, and Web fundamentals**
-- 🛠️ Believe in *learning by practice and consistency*
-- 📈 Actively pushing code and tracking progress on GitHub
-- 🤝 Open to collaboration and learning from others
+* 🔭 Currently focusing on **Data Structures & Algorithms**
+* 🧠 Strengthening **C++, Python, and Web fundamentals**
+* 🛠️ Believe in *learning by practice and consistency*
+* 📈 Actively pushing code and tracking progress on GitHub
+* 🤝 Open to collaboration and learning from others
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Languages:**  
-  `C++` · `Python` · `Java` · `TypeScript` · `HTML`
+### Languages
 
-- **Core Concepts:**  
-  `DSA` · `OOP` · `Recursion` · `Trees` · `Debugging`
+`C++` · `Python` · `Java` · `TypeScript` · `HTML`
 
-- **Tools & Platforms:**  
-  `Git` · `GitHub` · `VS Code`
+### Core Concepts
+
+`DSA` · `OOP` · `Recursion` · `Trees` · `Debugging`
+
+### Tools & Platforms
+
+`Git` · `GitHub` · `VS Code`
 
 ---
 
 ## 📂 Featured Repositories
 
-🔹 **learning**  
+### 🔹 learning
+
 > A practice repository where I write code to improve my programming fundamentals.
 
-🔹 **pure-html-website**  
+### 🔹 pure-html-website
+
 > Basic HTML project to understand web structure and layout.
 
-🔹 **kuch-to-hai**  
+### 🔹 kuch-to-hai
+
 > Small TypeScript experiments and learning projects.
 
-🔹 **multipurpose**  
+### 🔹 multipurpose
+
 > A mixed repository for testing and experimenting with ideas.
 
 ---
 
 ## 📊 GitHub Activity
 
-- 📌 Regular commits to maintain consistency  
-- 🟩 Actively improving contribution graph  
-- 🎯 Focused on quality learning, not just quantity
+* 📌 Regular commits to maintain consistency
+* 🟩 Actively improving contribution graph
+* 🎯 Focused on quality learning, not just quantity
 
 ---
 
 ## 🎯 Goals for 2026
 
-- ✅ Master DSA step by step
-- ✅ Improve problem-solving confidence
-- ✅ Become internship & SDE ready
+* ✅ Master DSA step by step
+* ✅ Improve problem-solving confidence
+* ✅ Become internship & SDE ready
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sayujya-tiwari-5a3793322/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/tiwari_sayujya)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/guardianslord783)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhtiwari19419@gmail.com)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sayujya-tiwari-5a3793322/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge\&logo=x)](https://x.com/tiwari_sayujya)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/guardianslord783)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shubhtiwari19419@gmail.com)
 
 ---
 
-⭐ *If you find my journey relatable, feel free to follow or explore my repositories.*  
+⭐ *If you find my journey relatable, feel free to follow or explore my repositories.*
 Learning never stops 🚀
-
-
-## Daily Activity Log
-- [2026-07-29 21:07:37] Automated activity update (1/10)
-- [2026-07-29 21:07:40] Automated activity update (2/10)
-- [2026-07-29 21:07:43] Automated activity update (3/10)
-- [2026-07-29 21:07:46] Automated activity update (4/10)
-- [2026-07-29 21:07:49] Automated activity update (5/10)
-- [2026-07-29 21:07:52] Automated activity update (6/10)
-- [2026-07-29 21:07:56] Automated activity update (7/10)
-- [2026-07-29 21:07:59] Automated activity update (8/10)
-- [2026-07-29 21:08:02] Automated activity update (9/10)
-- [2026-07-29 21:08:05] Automated activity update (10/10)
-- [2026-07-30 20:18:53] Automated activity update (1/10)
-- [2026-07-30 20:18:57] Automated activity update (2/10)
-- [2026-07-30 20:19:00] Automated activity update (3/10)
-- [2026-07-30 20:19:03] Automated activity update (4/10)
-- [2026-07-30 20:19:07] Automated activity update (5/10)
-- [2026-07-30 20:19:10] Automated activity update (6/10)
-- [2026-07-30 20:19:13] Automated activity update (7/10)
-- [2026-07-30 20:19:16] Automated activity update (8/10)
-- [2026-07-30 20:19:20] Automated activity update (9/10)
-- [2026-07-30 20:19:29] Automated activity update (10/10)
-- [2026-07-31 10:18:48] Automated activity update (1/10)
-- [2026-07-31 10:18:51] Automated activity update (2/10)
-- [2026-07-31 10:18:54] Automated activity update (3/10)
-- [2026-07-31 10:18:57] Automated activity update (4/10)
-- [2026-07-31 10:18:59] Automated activity update (5/10)
-- [2026-07-31 10:19:02] Automated activity update (6/10)
-- [2026-07-31 10:19:05] Automated activity update (7/10)
-- [2026-07-31 10:19:08] Automated activity update (8/10)
-- [2026-07-31 10:19:11] Automated activity update (9/10)
-- [2026-07-31 10:19:14] Automated activity update (10/10)
